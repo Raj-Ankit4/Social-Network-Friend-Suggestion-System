@@ -21,13 +21,6 @@ A C++ program that simulates a social network and suggests friends using **Bread
 
 ---
 
-## 🖥️ How to Run
-
-```bash
-git clone https://github.com/Raj-Ankit4/social-network-friend-suggestion.git
-cd social-network-friend-suggestion
-
-```
 ## 📸 Sample Interaction
 ========== Social Network Menu ==========
 1. Add User
@@ -35,7 +28,9 @@ cd social-network-friend-suggestion
 3. Show Social Network
 4. Suggest Friends
 5. Exit
+   
 =========================================
+
 Enter your choice: 1
 Enter username: Alice
 User 'Alice' added.
