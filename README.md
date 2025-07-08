@@ -1,37 +1,34 @@
 # 👥 Social Network Friend Suggestion System
 
-A C++ program that models a social network and suggests friends using **Breadth-First Search (BFS)** based on mutual connections. The system uses **graph data structures**, follows **OOP principles**, and provides an **interactive CLI menu** for ease of use.
+A C++ program that simulates a social network and suggests friends using **Breadth-First Search (BFS)** based on mutual connections. It uses efficient **graph data structures**, follows **OOP principles**, and provides an **interactive CLI menu**.
 
 ---
 
 ## 🚀 Features
 
-- Add users to the social network  
-- Create bidirectional friendships between users  
-- Display current network with user connections  
-- Suggest friends based on mutual connections (via BFS up to 2 levels deep)  
-- Efficient graph representation using `unordered_map` and `unordered_set`  
-- Menu-driven and interactive CLI interface  
+- Add users to the network
+- Create bidirectional friendships
+- View all users and their connections
+- Suggest friends using mutual connections (BFS up to 2 levels)
+- Efficient graph with `unordered_map` and `unordered_set`
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language:** C++  
-- **Concepts Used:** OOP, Graphs, BFS, STL (`unordered_map`, `unordered_set`, `queue`, `vector`)
+- **Language:** C++
+- **Concepts:** Graphs, BFS, OOP, STL (map, set, queue, vector)
 
 ---
 
 ## 🖥️ How to Run
 
-### 1. Clone the repository
-
 ```bash
 git clone https://github.com/Raj-Ankit4/social-network-friend-suggestion.git
 cd social-network-friend-suggestion
 
-### 📸 Sample Interaction
-
+```
+## 📸 Sample Interaction
 ========== Social Network Menu ==========
 1. Add User
 2. Add Friendship
